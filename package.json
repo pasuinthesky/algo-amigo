@@ -1,0 +1,14 @@
+{
+  "name": "ib-login",
+  "version": "1.0.0",
+  "description": "login to interactive broker web portal",
+  "main": "index.js",
+  "scripts": {
+    "test": "Login"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "testcafe": "^1.9.4"
+  }
+}
